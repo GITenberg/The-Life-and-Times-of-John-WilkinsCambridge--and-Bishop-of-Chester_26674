@@ -1,0 +1,31 @@
+_repo: The-Life-and-Times-of-John-WilkinsCambridge--and-Bishop-of-Chester_26674
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wright Henderson, P. A. (Patrick Arkley)
+    alias: Wright-Henderson, Patrick Arkley
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '32165'
+    url: http://www.gutenberg.org/2009/agents/32165
+description: ''
+gutenberg_issued: '2008-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26674'
+  lccn: ca12000154
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wadham College'
+- !lcsh 'Wilkins, John, 1614-1672'
+- !lcsh 'Bishops -- England -- Chester -- Biography'
+- !lcc 'LF'
+title: "The Life and Times of John Wilkins\r\nWarden of Wadham College, Oxford; Master\
+  \ of Trinity College, Cambridge; and Bishop of Chester"
+url: http://www.gutenberg.org/ebooks/26674
